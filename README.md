@@ -13,20 +13,50 @@ A luxury hotel platform offering premium user experiences for high-end travelers
 - **Collaborations with Lifestyle Brands:** Special discounts and offers from premium brands.  
 - **Privacy and Security:** Emphasis on secure and private user data handling.
 
-## Features 
-
-- **Responsive UI:** A visually captivating interface designed for mobile, tablet, and desktop.  
-- **Dynamic Navigation:** Smooth navigation between pages for concierge services, bookings, and itineraries.  
-- **Material UI Components:** Pre-styled and customizable components for a consistent, elegant look.  
-- **Custom Styling:** Fine-tuned CSS for branding and enhanced user experience.  
-- **Optimized Performance:** Fast-loading pages for a seamless browsing experience.  
-- **Accessibility:** Designed to meet accessibility standards for all users.  
 
 ## Tech Stack  
 
-- **Frontend:** Next.js   
-- **Styling:** CUstom CSS, Tailwind CSS and Material UI theming  
-- **Runtime:** Node.js
-- **Framework:** Express.js
-- **Database:** MongoDB
+###  Frontend  
+- **Framework:** Next.js  
+- **Styling Tools:**  
+  - Material UI  
+  - Tailwind CSS  
+  - Styled Components  
+  - Custom CSS  
+- **Libraries & Utilities:**  
+  - Axios    
+  - React Toastify (Notifications)  
+  - React Icons (Icons)  
+  - React Select (Dropdowns)  
+  - React Slick (Carousel)  
+  - Swiper (Carousel)  
+  - React Datepicker (Date Selection)  
+  - React Responsive Carousel    
+  - Split-Type (Text Splitting)  
+  - React Type Animation  
+  - js-cookie (Cookies Handling)     
+  - React Loader Spinner (Loading Indicators)  
+
+
+###  Backend  
+- **Runtime:** Node.js  
+- **Framework:** Express.js  
+- **Middleware & Utilities:**  
+  - CORS (Cross-Origin Resource Sharing)  
+  - Cookie Parser (Cookie Handling)  
+  - Express Session (Session Management)  
+  - Express Validator (Validation)  
+  - Express FileUpload & Multer (File Handling)  
+- **Authentication:**  
+  - Passport.js (Google OAuth 2.0)  
+  - JSON Web Tokens (JWT)  
+- **Security:**  
+  - Bcrypt (Password Hashing)  
+- **File Storage & Cloud Services:**  
+  - Cloudinary (Media Management)  
+- **Email Services:**  
+  - Nodemailer  
+- **Database:** MongoDB (via Mongoose) 
+
+
 
